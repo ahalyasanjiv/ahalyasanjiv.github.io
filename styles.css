@@ -1,0 +1,8 @@
+.links li {
+	list-style: none;
+	display: inline;
+	padding-right:10px;
+}
+.center {
+	margin:0;
+}
