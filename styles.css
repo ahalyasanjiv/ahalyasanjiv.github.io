@@ -1,73 +1,12 @@
-.links li {
-	list-style: none;
-	display: inline;
-	padding-right:10px;
-}
-.center {
-	margin:0;
+/* NAVIGATION BAR */
+.navbar li{
+	font-family: Roboto, sans-serif;
 }
 
+/* HEADER */
 
-.home-panel {
-	padding-top: 12rem;
-	padding-bottom: 4rem;
-	background-color: #bcd5d1;
-	margin: 0px;
-}
-.home-panel h1{
-	font-size: 7rem;
-	font-family: 'Roboto', sans-serif;
-    font-weight:700;
-    color:#1d2120;
-}
-.home-panel nav {
-	background-color: #bcd5d1;
-	border: none;
-	font-size: 2rem;
-	font-family: 'Roboto', sans-serif;
-}
-#top-bar a:link {
-	font-size: 2rem;
-}
-#home-content {
-    padding-top: 50px;
-    margin:0 auto;
-}
-#bio {
-	float: none;
-	font-size: 2rem;
-    margin: 0 auto;
-    font-family: 'Roboto', sans-serif;
-    font-weight:300;
-}
+/* SOCIAL LINKS */
 
-#headshot img {
-  max-width:50%;
-  max-height:50%;
-  border-radius: 5%;
-}
+/* ABOUT ME */
 
-#home-footer {
-    margin: 0 auto;
-}
-
-#links {
-	margin-top: 20px;
-}
-
-#links li{
-	list-style: none;
-	display: inline;
-	margin-right: 20px;
-}
-
-#links .fa-linkedin {
-	padding:15px;
-	background: #007bb5;
-	color: white;
-}
-#links .fa-github {
-	padding:15px;
-	background: #333333;
-	color: white;
-}
+/* PROJECTS */
