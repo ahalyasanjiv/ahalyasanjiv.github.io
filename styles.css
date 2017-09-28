@@ -9,14 +9,15 @@
 
 
 .home-panel {
-	padding-top: 8rem;
+	padding-top: 12rem;
 	padding-bottom: 4rem;
 	background-color: #bcd5d1;
 	margin: 0px;
 }
 .home-panel h1{
-	font-size: 5rem;
+	font-size: 7rem;
 	font-family: 'Roboto', sans-serif;
+    font-weight:700;
 }
 .home-panel nav {
 	background-color: #bcd5d1;
@@ -24,9 +25,17 @@
 	font-size: 2rem;
 	font-family: 'Roboto', sans-serif;
 }
+#top-bar a:link {
+	font-size: 2rem;
+}
 #bio {
 	float: none;
 	font-size: 2rem;
     margin: 0 auto;
     padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+}
+#home-content {
+	height: 100%;
 }
