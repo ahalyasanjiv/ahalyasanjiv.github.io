@@ -6,3 +6,27 @@
 .center {
 	margin:0;
 }
+
+
+.home-panel {
+	padding-top: 8rem;
+	padding-bottom: 4rem;
+	background-color: #bcd5d1;
+	margin: 0px;
+}
+.home-panel h1{
+	font-size: 5rem;
+	font-family: 'Roboto', sans-serif;
+}
+.home-panel nav {
+	background-color: #bcd5d1;
+	border: none;
+	font-size: 2rem;
+	font-family: 'Roboto', sans-serif;
+}
+#bio {
+	float: none;
+	font-size: 2rem;
+    margin: 0 auto;
+    padding-top: 50px;
+}
