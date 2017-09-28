@@ -29,14 +29,24 @@
 #top-bar a:link {
 	font-size: 2rem;
 }
+#home-content {
+    padding-top: 50px;
+    margin:0 auto;
+}
 #bio {
 	float: none;
 	font-size: 2rem;
     margin: 0 auto;
-    padding-top: 50px;
     font-family: 'Roboto', sans-serif;
     font-weight:300;
 }
+
+#headshot img {
+  max-width:50%;
+  max-height:50%;
+  border-radius: 5%;
+}
+
 #home-footer {
     margin: 0 auto;
 }
