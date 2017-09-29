@@ -53,21 +53,21 @@
    	color: #3b3a30;
 }
 
-/* BANNER */
-.banner {
-	margin-top: 0;
-	background-color: #1d2120;
+#projects h1{
+	margin: 40px;
+	padding: 0;
+	font-family: "Roboto-Condensed", sans-serif; 
+   	font-weight: 300;
+	color:white;
+	font-size:3em;
 }
 
 /* PROJECTS */
 #projects {
-	height:100px;
 	padding: 50px;
-	background-color: #5a5c51;
+	background-color: #1d2120;
 }
 
-#projects h1{
-	margin: 0;
-	padding: 0;
-	color:white;
+#projects .row{
+	margin:10px;
 }
