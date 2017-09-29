@@ -1,12 +1,38 @@
 /* NAVIGATION BAR */
+#navigation {
+	margin: 0;
+	border-radius: 0;
+}
 .navbar li{
-	font-family: Roboto, sans-serif;
+	list-style: none;
+	display: inline;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    font-size:1.5em;
+}
+
+.fa-linkedin {
+	background:#007bb6
 }
 
 /* HEADER */
+.header {
+	margin:0;
+	padding: 60px;
+	background-color: #5a5c51;
+}
+
+.header h1{
+	color: white;
+	font-size:5em;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   	font-weight: 300;
+}
 
 /* SOCIAL LINKS */
-
+.about-me {
+	background-color: #bcd5d1
+}
 /* ABOUT ME */
 
 /* PROJECTS */
