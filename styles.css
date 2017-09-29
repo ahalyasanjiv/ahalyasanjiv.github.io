@@ -18,7 +18,7 @@
 /* HEADER */
 .header {
 	margin:0;
-	padding: 60px;
+	padding: 170px;
 	background-color: #bcd5d1;
 }
 
@@ -32,14 +32,19 @@
 /* SOCIAL LINKS */
 
 /* ABOUT ME */
-.about-me {
-	padding: 40px;
-	background-color: #e6f2ff
-}
 #headshot {
 	border-radius: 50%;
 	max-height: 100%;
 	max-width: 100%;
+}
+#bio {
+	padding:0;
+	margin: 0;
+}
+#bio h1{
+	margin-top:0;
+	margin-bottom: 10px;
+
 }
 #bio p{
 	font-family: "Roboto-Condensed", sans-serif;
@@ -48,7 +53,21 @@
    	color: #3b3a30;
 }
 
+/* BANNER */
+.banner {
+	margin-top: 0;
+	background-color: #1d2120;
+}
 
 /* PROJECTS */
+#projects {
+	height:100px;
+	padding: 50px;
+	background-color: #5a5c51;
+}
 
-
+#projects h1{
+	margin: 0;
+	padding: 0;
+	color:white;
+}
