@@ -54,18 +54,42 @@
 #projects h1{
 	margin: 40px;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
-   	font-weight: 200;
+	font-size:4rem;
+	font-family: 'Libre Baskerville', serif;
+   	font-weight: 700;
 	color:white;
-	font-size:3em;
 }
 
 /* PROJECTS */
 #projects {
 	padding: 50px;
-	background-color: #1d2120;
+	background-color: #64706c;
 }
 
-#projects .row{
-	margin:10px;
+
+#projects img {
+	max-width: 100%;
 }
+
+#projects .caption {
+	margin:0;
+	padding: 10px;
+	font-family: 'Open Sans', sans-serif;
+   	font-weight: 200;
+	background-color: #bcd5d1;
+	color:#1d2120;
+}
+
+#projects .caption h2{
+	font-family: 'Libre Baskerville', serif;
+	font-size:3rem;
+}
+#projects .caption p{
+	font-style: oblique;
+}
+
+
+.portfolio-row{
+	margin-bottom: 20px;
+}
+
