@@ -8,7 +8,7 @@
 	display: inline;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 300;
-    font-size:1.5rem;
+    font-size:2rem;
 }
 
 .fa-linkedin {
@@ -19,17 +19,15 @@
 .header {
 	margin:0;
 	padding: 170px;
-	background-color: #bcd5d1;
+	background-color: #76C4AE;
 }
 
 .header h1{
-	color: black;
+	color: white;
 	font-size:4rem;
 	font-family: "Roboto-Condensed", sans-serif; 
    	font-weight: 700;
 }
-
-/* SOCIAL LINKS */
 
 /* ABOUT ME */
 #headshot {
@@ -49,8 +47,8 @@
 #bio p{
 	font-family: "Roboto-Condensed", sans-serif;
    	font-weight: 300;
-   	font-size: 1.25em;
-   	color: #3b3a30;
+   	font-size: 1.3em;
+   	color: white;
 }
 
 #projects h1{
