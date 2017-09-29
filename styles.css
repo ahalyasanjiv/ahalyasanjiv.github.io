@@ -64,8 +64,16 @@
 
 /* PROJECTS */
 #projects {
-	padding: 50px;
 	background-color: white;
+}
+#projects div{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.portfolio-col {
+	box-shadow: 10px 10px 6px #888888;
+	margin-bottom: 50px;
 }
 
 
@@ -92,7 +100,20 @@
 	font-style: oblique;
 }
 
-.portfolio-row{
-	margin-bottom: 20px;
+
+/* CONTACT */
+#contact {
+	color: 1d2120;
+	font-size:4rem;
+	font-family: 'Libre Baskerville', serif;
+   	font-weight: 700;
+	height: 250px;
 }
 
+.fa-linkedin-square {
+	color: #0077B5;
+}
+
+.fa-github-square {
+	color: #333333;
+}
