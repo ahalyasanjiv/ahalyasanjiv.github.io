@@ -102,8 +102,8 @@
 }
 
 
-/* CONTACT */
-#contact {
+/* Links */
+#links {
 	color: 1d2120;
 	font-size:4rem;
 	font-family: 'Libre Baskerville', serif;
@@ -111,10 +111,18 @@
 	height: 250px;
 }
 
+#links .fa:hover {
+	opacity: 0.75;
+}
+
 .fa-linkedin-square {
 	color: #0077B5;
 }
 
 .fa-github-square {
+	color: #333333;
+}
+
+.fa-file-text-o {
 	color: #333333;
 }
