@@ -101,6 +101,9 @@
 	font-style: oblique;
 }
 
+#projects .portfolio-col:hover {
+	opacity: 0.75;
+}
 
 /* Links */
 #links {
