@@ -11,10 +11,6 @@
     font-size:2rem;
 }
 
-.fa-linkedin {
-	background:#007bb6
-}
-
 /* HEADER */
 .header {
 	margin:0;
@@ -60,7 +56,7 @@
 	font-size:4rem;
 	font-family: 'Libre Baskerville', serif;
    	font-weight: 700;
-	color: #1d2120;
+	color: #1D2120;
 }
 
 /* PROJECTS */
@@ -88,7 +84,7 @@
 	padding: 10px;
 	font-family: 'Open Sans', sans-serif;
    	font-weight: 200;
-	background-color: #bcd5d1;
+	background-color: #c8e7de;/*#bcd5d1;*/
 	color:#1d2120;
 }
 
@@ -101,13 +97,13 @@
 	font-style: oblique;
 }
 
-#projects .portfolio-col:hover {
+#projects .portfolio-col img:hover {
 	opacity: 0.75;
 }
 
 /* Links */
 #links {
-	color: 1d2120;
+	color: #1D2120;
 	font-size:4rem;
 	font-family: 'Libre Baskerville', serif;
    	font-weight: 700;
