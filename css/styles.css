@@ -97,7 +97,7 @@
 	font-style: oblique;
 }
 
-#projects .portfolio-col img:hover {
+#projects .portfolio-col:hover {
 	opacity: 0.75;
 }
 
